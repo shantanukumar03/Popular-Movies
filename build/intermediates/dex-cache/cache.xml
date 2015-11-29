@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\shantanu\Downloads\Video\udacity&apos;\Projects\popularmovies-master\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\shantanu\Downloads\Video\udacity&apos;\Projects\popularmovies-master\PopularMovies\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-d3b4b1d042c7880b4891b688f0beb829e9825a4e.jar" />
+    </item>
+    <item
+        jar="C:\Users\shantanu\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\shantanu\Downloads\Video\udacity&apos;\Projects\popularmovies-master\PopularMovies\app\build\intermediates\pre-dexed\debug\gson-2.5-fee71f05e1175a31a15449c0b545ead0d116cfe8.jar" />
+    </item>
+    <item
+        jar="C:\Users\shantanu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\shantanu\Downloads\Video\udacity&apos;\Projects\popularmovies-master\PopularMovies\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-c218569cef556dd8bed7c14e7ee60b21a0b3de22.jar" />
+    </item>
+    <item
+        jar="C:\Users\shantanu\Downloads\Video\udacity&apos;\Projects\popularmovies-master\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\shantanu\Downloads\Video\udacity&apos;\Projects\popularmovies-master\PopularMovies\app\build\intermediates\pre-dexed\debug\classes-a8112227c84ebf73622a38641567db886114b656.jar" />
+    </item>
+    <item
+        jar="C:\Users\shantanu\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\Users\shantanu\Downloads\Video\udacity&apos;\Projects\popularmovies-master\PopularMovies\app\build\intermediates\pre-dexed\debug\hamcrest-core-1.3-9a9e6aea583662718527a5a278e63df553acc4e0.jar" />
+    </item>
+    <item
+        jar="C:\Users\shantanu\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\shantanu\Downloads\Video\udacity&apos;\Projects\popularmovies-master\PopularMovies\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-52c033d01d15a054cfaeaecfcb0d32fa1144de18.jar" />
+    </item>
+    <item
+        jar="C:\Users\shantanu\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\shantanu\Downloads\Video\udacity&apos;\Projects\popularmovies-master\PopularMovies\app\build\intermediates\pre-dexed\debug\junit-4.12-117794d484a263c9c8d9c6f9a1670b388c33e312.jar" />
+    </item>
+    <item
+        jar="C:\Users\shantanu\Downloads\Video\udacity&apos;\Projects\popularmovies-master\PopularMovies\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\shantanu\Downloads\Video\udacity&apos;\Projects\popularmovies-master\PopularMovies\app\build\intermediates\pre-dexed\debug\classes-33b56c27b8986dec261927ed26521d7fb98ba8c5.jar" />
+    </item>
+
+</items>

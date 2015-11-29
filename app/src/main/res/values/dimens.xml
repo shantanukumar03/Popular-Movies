@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="activity_horizontal_margin">0dp</dimen>
+    <dimen name="activity_vertical_margin">0dp</dimen>
+
+    <dimen name="fragment_horizontal_margin">16dp</dimen>
+    <dimen name="fragment_vertical_margin">16dp</dimen>
+
+    <dimen name="movie_tile_height">277dp</dimen>
+    <dimen name="movie_tile_width">185dp</dimen>
+
+    <dimen name="movie_thumb_height">138dp</dimen>
+    <dimen name="movie_thumb_width">92dp</dimen>
+
+    <dimen name="movie_backdrop_height">192dp</dimen>
+    <dimen name="movie_backdrop_width">342dp</dimen>
+</resources>
